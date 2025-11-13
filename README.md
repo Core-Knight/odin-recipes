@@ -1,1 +1,1 @@
-Im doing Odin recipe PROJECT and i will have HTML and later on CSS coding skills demonstrated at the end of the project..git
+Im doing Odin recipe PROJECT and i will have HTML and later on CSS coding skills demonstrated at the end of the project..
