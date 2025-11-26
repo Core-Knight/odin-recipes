@@ -1,0 +1,111 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+body {
+ background-image: linear-gradient(to bottom, rgb(0, 132, 255), black);   
+ background-repeat:no-repeat;
+ padding-bottom: 33.1rem;
+}
+
+
+/* Top Header */
+
+.top-header-box {
+ display: inline-flex;
+ border:ridge;
+ border-radius: 20px;
+ border-top: ridge;
+ border-bottom: none;
+ margin-left: 0.4rem;
+ margin-top: 0.5rem;
+ padding-left: 0.6rem;
+ padding-right: 0.6rem;
+ border-color: rgb(243, 219, 0);
+}
+
+.head-color {
+ color: rgb(15, 60, 102);
+ font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+}
+
+.left-head {
+ margin-right: 97rem;
+ font-size: 23px;
+ padding-top: 0.5rem;
+}
+
+.right-head {
+ margin: 1rem; 
+}
+
+
+/* Bottom Containers*/
+ 
+ #bottom-main {
+  display: inline-flex;
+  gap: 30rem;
+  text-align: center;
+  margin-left: 30rem;
+  margin-top: 15rem;
+ }
+
+
+      /* left side */
+
+.bottom-left {
+/* From https://css.glass */
+background: rgba(230, 157, 0, 0.212);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(223, 146, 4, 0.582);
+backdrop-filter: blur(3.5px);
+-webkit-backdrop-filter: blur(3.5px);
+border: 1px solid rgba(230, 157, 0, 0.082);
+padding-left: 2rem;
+padding-right: 2rem;
+padding-top: 1rem;
+padding-bottom: 2rem;
+}
+
+.dishes {
+ margin-bottom: 0.3rem; 
+}
+.dishes-child, .Desserts-child {
+  font-size: 19px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(204, 35, 167);
+
+}
+
+
+
+/* bottom head fonts */
+.head-font {
+  font-size: 30px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+  color: rgb(11, 58, 88);
+}
+
+
+/* Right side */
+.bottom-right {
+ background: rgba(230, 157, 0, 0.212);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(223, 146, 4, 0.582);
+backdrop-filter: blur(3.5px);
+-webkit-backdrop-filter: blur(3.5px);
+border: 1px solid rgba(230, 157, 0, 0.082);
+padding-left: 2rem;
+padding-right: 2rem;
+padding-top: 1rem;
+padding-bottom: 2rem;
+}
+
+
+
+
